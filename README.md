@@ -13,6 +13,7 @@ Consequently, the findings from this study will yield exclusive, additional insi
 .fasta rna sequence file (you can get it on ncbi)
 
 ## Results
+###See paragraph 4 for results for MERS-CoV and SARS-CoV-1
 ![image](https://user-images.githubusercontent.com/36309634/233639817-a6c7672c-9e36-4625-808c-8f3baa986c55.png)
 #### Correlation function for SARS-CoV-2
 ![image](https://user-images.githubusercontent.com/36309634/233640004-f021e698-091e-4544-8558-1b3def15dff4.png)
@@ -20,4 +21,4 @@ Consequently, the findings from this study will yield exclusive, additional insi
 ![image](https://user-images.githubusercontent.com/36309634/233640080-d67a89e0-20d7-48d6-9402-cdff5aa0ba32.png)
 #### Memory function for SARS-CoV-2
 
-See paragraph 4 for results for MERS-CoV and SARS-CoV-1
+
